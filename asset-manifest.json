@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/smsadegh82/my_resume2/static/css/main.9f56fb31.chunk.css",
-    "main.js": "/smsadegh82/my_resume2/static/js/main.e3e5454f.chunk.js",
-    "main.js.map": "/smsadegh82/my_resume2/static/js/main.e3e5454f.chunk.js.map",
-    "runtime~main.js": "/smsadegh82/my_resume2/static/js/runtime~main.db034115.js",
-    "runtime~main.js.map": "/smsadegh82/my_resume2/static/js/runtime~main.db034115.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/smsadegh82/my_resume2/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.5e4284aa.chunk.js": "/smsadegh82/my_resume2/static/js/2.5e4284aa.chunk.js",
-    "static/js/2.5e4284aa.chunk.js.map": "/smsadegh82/my_resume2/static/js/2.5e4284aa.chunk.js.map",
-    "index.html": "/smsadegh82/my_resume2/index.html",
-    "precache-manifest.b194830d46dce268670a068478ce8feb.js": "/smsadegh82/my_resume2/precache-manifest.b194830d46dce268670a068478ce8feb.js",
-    "service-worker.js": "/smsadegh82/my_resume2/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/smsadegh82/my_resume2/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.9f56fb31.chunk.css.map": "/smsadegh82/my_resume2/static/css/main.9f56fb31.chunk.css.map",
-    "static/media/index.scss": "/smsadegh82/my_resume2/static/media/aguaDeLuz.fa004d0f.png"
+    "main.css": "/my_resume2/static/css/main.0a3a5e58.chunk.css",
+    "main.js": "/my_resume2/static/js/main.2db63a69.chunk.js",
+    "main.js.map": "/my_resume2/static/js/main.2db63a69.chunk.js.map",
+    "runtime~main.js": "/my_resume2/static/js/runtime~main.b8736423.js",
+    "runtime~main.js.map": "/my_resume2/static/js/runtime~main.b8736423.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/my_resume2/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.5e4284aa.chunk.js": "/my_resume2/static/js/2.5e4284aa.chunk.js",
+    "static/js/2.5e4284aa.chunk.js.map": "/my_resume2/static/js/2.5e4284aa.chunk.js.map",
+    "index.html": "/my_resume2/index.html",
+    "precache-manifest.4f48e23261fc1f050b4634652a5a53d6.js": "/my_resume2/precache-manifest.4f48e23261fc1f050b4634652a5a53d6.js",
+    "service-worker.js": "/my_resume2/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/my_resume2/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.0a3a5e58.chunk.css.map": "/my_resume2/static/css/main.0a3a5e58.chunk.css.map",
+    "static/media/index.scss": "/my_resume2/static/media/aguaDeLuz.fa004d0f.png"
   }
 }
